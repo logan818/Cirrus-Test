@@ -1,2 +1,3 @@
 # Cirrus-Test
-learning to use Cirrus and messing around
+
+Just testing Cirrus UI and seeing if I like it
