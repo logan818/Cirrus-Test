@@ -3,7 +3,11 @@ import 'cirrus-ui';
 
 function Header() {
     return (
-        <header>Logan Calhoun</header>
+        <div class="header">
+            <div class="header-brand">
+            <h3>Logan Calhoun</h3> 
+            </div>
+        </div>
     );
 }
 
